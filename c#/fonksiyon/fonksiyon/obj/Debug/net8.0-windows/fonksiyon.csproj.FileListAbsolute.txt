@@ -1,0 +1,16 @@
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\bin\Debug\net8.0-windows\fonksiyon.exe
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\bin\Debug\net8.0-windows\fonksiyon.deps.json
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\bin\Debug\net8.0-windows\fonksiyon.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\bin\Debug\net8.0-windows\fonksiyon.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\bin\Debug\net8.0-windows\fonksiyon.pdb
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\obj\Debug\net8.0-windows\fonksiyon.Form1.resources
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\obj\Debug\net8.0-windows\fonksiyon.csproj.GenerateResource.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\obj\Debug\net8.0-windows\fonksiyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\obj\Debug\net8.0-windows\fonksiyon.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\obj\Debug\net8.0-windows\fonksiyon.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\obj\Debug\net8.0-windows\fonksiyon.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\obj\Debug\net8.0-windows\fonksiyon.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\obj\Debug\net8.0-windows\refint\fonksiyon.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\obj\Debug\net8.0-windows\fonksiyon.pdb
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\obj\Debug\net8.0-windows\fonksiyon.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\fonksiyon\fonksiyon\obj\Debug\net8.0-windows\ref\fonksiyon.dll

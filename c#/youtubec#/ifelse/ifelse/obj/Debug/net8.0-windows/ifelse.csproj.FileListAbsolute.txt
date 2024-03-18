@@ -1,0 +1,6 @@
+C:\Users\ESMANUR\Desktop\c#\ifelse\ifelse\obj\Debug\net8.0-windows\ifelse.Form1.resources
+C:\Users\ESMANUR\Desktop\c#\ifelse\ifelse\obj\Debug\net8.0-windows\ifelse.csproj.GenerateResource.cache
+C:\Users\ESMANUR\Desktop\c#\ifelse\ifelse\obj\Debug\net8.0-windows\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\c#\ifelse\ifelse\obj\Debug\net8.0-windows\ifelse.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\c#\ifelse\ifelse\obj\Debug\net8.0-windows\ifelse.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\c#\ifelse\ifelse\obj\Debug\net8.0-windows\ifelse.csproj.CoreCompileInputs.cache

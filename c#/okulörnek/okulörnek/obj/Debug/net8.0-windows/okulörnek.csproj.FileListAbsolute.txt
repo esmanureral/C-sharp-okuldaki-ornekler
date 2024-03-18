@@ -1,0 +1,16 @@
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\bin\Debug\net8.0-windows\okulörnek.exe
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\bin\Debug\net8.0-windows\okulörnek.deps.json
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\bin\Debug\net8.0-windows\okulörnek.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\bin\Debug\net8.0-windows\okulörnek.dll
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\bin\Debug\net8.0-windows\okulörnek.pdb
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\obj\Debug\net8.0-windows\okulörnek.Form1.resources
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\obj\Debug\net8.0-windows\okulörnek.csproj.GenerateResource.cache
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\obj\Debug\net8.0-windows\okulörnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\obj\Debug\net8.0-windows\okulörnek.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\obj\Debug\net8.0-windows\okulörnek.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\obj\Debug\net8.0-windows\okulörnek.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\obj\Debug\net8.0-windows\okulörnek.dll
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\obj\Debug\net8.0-windows\refint\okulörnek.dll
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\obj\Debug\net8.0-windows\okulörnek.pdb
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\obj\Debug\net8.0-windows\okulörnek.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\c#\okulörnek\okulörnek\obj\Debug\net8.0-windows\ref\okulörnek.dll

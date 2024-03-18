@@ -1,0 +1,15 @@
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\obj\Debug\net6.0\girilen nota göre harf verme.csproj.AssemblyReference.cache
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\obj\Debug\net6.0\girilen nota göre harf verme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\obj\Debug\net6.0\girilen nota göre harf verme.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\obj\Debug\net6.0\girilen nota göre harf verme.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\obj\Debug\net6.0\girilen nota göre harf verme.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\bin\Debug\net6.0\girilen nota göre harf verme.exe
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\bin\Debug\net6.0\girilen nota göre harf verme.deps.json
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\bin\Debug\net6.0\girilen nota göre harf verme.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\bin\Debug\net6.0\girilen nota göre harf verme.dll
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\bin\Debug\net6.0\girilen nota göre harf verme.pdb
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\obj\Debug\net6.0\girilen nota göre harf verme.dll
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\obj\Debug\net6.0\refint\girilen nota göre harf verme.dll
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\obj\Debug\net6.0\girilen nota göre harf verme.pdb
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\obj\Debug\net6.0\girilen nota göre harf verme.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\c#\girilen nota göre harf verme\girilen nota göre harf verme\obj\Debug\net6.0\ref\girilen nota göre harf verme.dll

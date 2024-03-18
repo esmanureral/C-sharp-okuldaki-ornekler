@@ -1,0 +1,16 @@
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\bin\Debug\net8.0-windows\döngüler.exe
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\bin\Debug\net8.0-windows\döngüler.deps.json
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\bin\Debug\net8.0-windows\döngüler.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\bin\Debug\net8.0-windows\döngüler.dll
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\bin\Debug\net8.0-windows\döngüler.pdb
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\obj\Debug\net8.0-windows\döngüler.Form1.resources
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\obj\Debug\net8.0-windows\döngüler.csproj.GenerateResource.cache
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\obj\Debug\net8.0-windows\döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\obj\Debug\net8.0-windows\döngüler.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\obj\Debug\net8.0-windows\döngüler.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\obj\Debug\net8.0-windows\döngüler.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\obj\Debug\net8.0-windows\döngüler.dll
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\obj\Debug\net8.0-windows\refint\döngüler.dll
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\obj\Debug\net8.0-windows\döngüler.pdb
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\obj\Debug\net8.0-windows\döngüler.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\c#\döngüler\döngüler\obj\Debug\net8.0-windows\ref\döngüler.dll

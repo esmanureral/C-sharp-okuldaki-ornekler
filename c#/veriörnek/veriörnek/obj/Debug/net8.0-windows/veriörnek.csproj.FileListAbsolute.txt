@@ -1,0 +1,16 @@
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\bin\Debug\net8.0-windows\veriörnek.exe
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\bin\Debug\net8.0-windows\veriörnek.deps.json
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\bin\Debug\net8.0-windows\veriörnek.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\bin\Debug\net8.0-windows\veriörnek.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\bin\Debug\net8.0-windows\veriörnek.pdb
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\obj\Debug\net8.0-windows\veriörnek.Form1.resources
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\obj\Debug\net8.0-windows\veriörnek.csproj.GenerateResource.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\obj\Debug\net8.0-windows\veriörnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\obj\Debug\net8.0-windows\veriörnek.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\obj\Debug\net8.0-windows\veriörnek.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\obj\Debug\net8.0-windows\veriörnek.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\obj\Debug\net8.0-windows\veriörnek.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\obj\Debug\net8.0-windows\refint\veriörnek.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\obj\Debug\net8.0-windows\veriörnek.pdb
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\obj\Debug\net8.0-windows\veriörnek.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\veriörnek\veriörnek\obj\Debug\net8.0-windows\ref\veriörnek.dll

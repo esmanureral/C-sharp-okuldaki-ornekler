@@ -1,0 +1,16 @@
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\bin\Debug\net8.0-windows\asal.exe
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\bin\Debug\net8.0-windows\asal.deps.json
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\bin\Debug\net8.0-windows\asal.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\bin\Debug\net8.0-windows\asal.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\bin\Debug\net8.0-windows\asal.pdb
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\obj\Debug\net8.0-windows\asal.Form1.resources
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\obj\Debug\net8.0-windows\asal.csproj.GenerateResource.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\obj\Debug\net8.0-windows\asal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\obj\Debug\net8.0-windows\asal.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\obj\Debug\net8.0-windows\asal.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\obj\Debug\net8.0-windows\asal.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\obj\Debug\net8.0-windows\asal.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\obj\Debug\net8.0-windows\refint\asal.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\obj\Debug\net8.0-windows\asal.pdb
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\obj\Debug\net8.0-windows\asal.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\asal\asal\obj\Debug\net8.0-windows\ref\asal.dll

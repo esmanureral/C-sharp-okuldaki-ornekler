@@ -1,0 +1,15 @@
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\obj\Debug\net6.0\atm örneği(switch case).csproj.AssemblyReference.cache
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\obj\Debug\net6.0\atm örneği(switch case).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\obj\Debug\net6.0\atm örneği(switch case).AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\obj\Debug\net6.0\atm örneği(switch case).AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\obj\Debug\net6.0\atm örneği(switch case).csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\bin\Debug\net6.0\atm örneği(switch case).exe
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\bin\Debug\net6.0\atm örneği(switch case).deps.json
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\bin\Debug\net6.0\atm örneği(switch case).runtimeconfig.json
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\bin\Debug\net6.0\atm örneği(switch case).dll
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\bin\Debug\net6.0\atm örneği(switch case).pdb
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\obj\Debug\net6.0\atm örneği(switch case).dll
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\obj\Debug\net6.0\refint\atm örneği(switch case).dll
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\obj\Debug\net6.0\atm örneği(switch case).pdb
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\obj\Debug\net6.0\atm örneği(switch case).genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\c#\atm örneği(switch case)\atm örneği(switch case)\obj\Debug\net6.0\ref\atm örneği(switch case).dll

@@ -1,0 +1,15 @@
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\obj\Debug\net6.0\beden kitle indeksi.csproj.AssemblyReference.cache
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\obj\Debug\net6.0\beden kitle indeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\obj\Debug\net6.0\beden kitle indeksi.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\obj\Debug\net6.0\beden kitle indeksi.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\obj\Debug\net6.0\beden kitle indeksi.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\bin\Debug\net6.0\beden kitle indeksi.exe
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\bin\Debug\net6.0\beden kitle indeksi.deps.json
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\bin\Debug\net6.0\beden kitle indeksi.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\bin\Debug\net6.0\beden kitle indeksi.dll
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\bin\Debug\net6.0\beden kitle indeksi.pdb
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\obj\Debug\net6.0\beden kitle indeksi.dll
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\obj\Debug\net6.0\refint\beden kitle indeksi.dll
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\obj\Debug\net6.0\beden kitle indeksi.pdb
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\obj\Debug\net6.0\beden kitle indeksi.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\c#\beden kitle indeksi\beden kitle indeksi\obj\Debug\net6.0\ref\beden kitle indeksi.dll

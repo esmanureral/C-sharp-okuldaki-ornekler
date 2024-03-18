@@ -1,0 +1,15 @@
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\obj\Debug\net6.0\kullanıcı girdisi örnek.csproj.AssemblyReference.cache
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\obj\Debug\net6.0\kullanıcı girdisi örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\obj\Debug\net6.0\kullanıcı girdisi örnek.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\obj\Debug\net6.0\kullanıcı girdisi örnek.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\obj\Debug\net6.0\kullanıcı girdisi örnek.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\bin\Debug\net6.0\kullanıcı girdisi örnek.exe
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\bin\Debug\net6.0\kullanıcı girdisi örnek.deps.json
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\bin\Debug\net6.0\kullanıcı girdisi örnek.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\bin\Debug\net6.0\kullanıcı girdisi örnek.dll
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\bin\Debug\net6.0\kullanıcı girdisi örnek.pdb
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\obj\Debug\net6.0\kullanıcı girdisi örnek.dll
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\obj\Debug\net6.0\refint\kullanıcı girdisi örnek.dll
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\obj\Debug\net6.0\kullanıcı girdisi örnek.pdb
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\obj\Debug\net6.0\kullanıcı girdisi örnek.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\c#\kullanıcı girdisi örnek\kullanıcı girdisi örnek\obj\Debug\net6.0\ref\kullanıcı girdisi örnek.dll

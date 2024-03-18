@@ -1,0 +1,29 @@
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\bin\Debug\net6.0\basit örnek.exe
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\bin\Debug\net6.0\basit örnek.deps.json
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\bin\Debug\net6.0\basit örnek.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\bin\Debug\net6.0\basit örnek.dll
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\bin\Debug\net6.0\basit örnek.pdb
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\obj\Debug\net6.0\basit örnek.csproj.AssemblyReference.cache
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\obj\Debug\net6.0\basit örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\obj\Debug\net6.0\basit örnek.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\obj\Debug\net6.0\basit örnek.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\obj\Debug\net6.0\basit örnek.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\obj\Debug\net6.0\basit örnek.dll
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\obj\Debug\net6.0\refint\basit örnek.dll
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\obj\Debug\net6.0\basit örnek.pdb
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\obj\Debug\net6.0\basit örnek.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\c#\basit örnek\basit örnek\obj\Debug\net6.0\ref\basit örnek.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\bin\Debug\net6.0\basit örnek.exe
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\bin\Debug\net6.0\basit örnek.deps.json
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\bin\Debug\net6.0\basit örnek.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\bin\Debug\net6.0\basit örnek.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\bin\Debug\net6.0\basit örnek.pdb
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\obj\Debug\net6.0\basit örnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\obj\Debug\net6.0\basit örnek.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\obj\Debug\net6.0\basit örnek.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\obj\Debug\net6.0\basit örnek.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\obj\Debug\net6.0\basit örnek.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\obj\Debug\net6.0\refint\basit örnek.dll
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\obj\Debug\net6.0\basit örnek.pdb
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\obj\Debug\net6.0\basit örnek.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\programlama dilleri\c#\ad soyad bilgisi string,kullanıcıdan sayı isteyerek toplama,basit örnekler\basit örnek\obj\Debug\net6.0\ref\basit örnek.dll

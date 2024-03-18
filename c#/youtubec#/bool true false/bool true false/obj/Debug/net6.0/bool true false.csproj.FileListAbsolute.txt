@@ -1,0 +1,15 @@
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\obj\Debug\net6.0\bool true false.csproj.AssemblyReference.cache
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\obj\Debug\net6.0\bool true false.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\obj\Debug\net6.0\bool true false.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\obj\Debug\net6.0\bool true false.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\obj\Debug\net6.0\bool true false.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\bin\Debug\net6.0\bool true false.exe
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\bin\Debug\net6.0\bool true false.deps.json
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\bin\Debug\net6.0\bool true false.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\bin\Debug\net6.0\bool true false.dll
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\bin\Debug\net6.0\bool true false.pdb
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\obj\Debug\net6.0\bool true false.dll
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\obj\Debug\net6.0\refint\bool true false.dll
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\obj\Debug\net6.0\bool true false.pdb
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\obj\Debug\net6.0\bool true false.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\c#\bool true false\bool true false\obj\Debug\net6.0\ref\bool true false.dll

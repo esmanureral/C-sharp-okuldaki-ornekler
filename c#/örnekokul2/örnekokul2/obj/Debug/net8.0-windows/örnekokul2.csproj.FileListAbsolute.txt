@@ -1,0 +1,16 @@
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\obj\Debug\net8.0-windows\örnekokul2.Form1.resources
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\obj\Debug\net8.0-windows\örnekokul2.csproj.GenerateResource.cache
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\obj\Debug\net8.0-windows\örnekokul2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\obj\Debug\net8.0-windows\örnekokul2.AssemblyInfoInputs.cache
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\obj\Debug\net8.0-windows\örnekokul2.AssemblyInfo.cs
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\obj\Debug\net8.0-windows\örnekokul2.csproj.CoreCompileInputs.cache
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\bin\Debug\net8.0-windows\örnekokul2.exe
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\bin\Debug\net8.0-windows\örnekokul2.deps.json
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\bin\Debug\net8.0-windows\örnekokul2.runtimeconfig.json
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\bin\Debug\net8.0-windows\örnekokul2.dll
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\bin\Debug\net8.0-windows\örnekokul2.pdb
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\obj\Debug\net8.0-windows\örnekokul2.dll
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\obj\Debug\net8.0-windows\refint\örnekokul2.dll
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\obj\Debug\net8.0-windows\örnekokul2.pdb
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\obj\Debug\net8.0-windows\örnekokul2.genruntimeconfig.cache
+C:\Users\ESMANUR\Desktop\c#\örnekokul2\örnekokul2\obj\Debug\net8.0-windows\ref\örnekokul2.dll
